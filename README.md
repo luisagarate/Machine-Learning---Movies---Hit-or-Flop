@@ -51,16 +51,18 @@ We had to manually code our target variable, these are the parameters we used.
 - country
 - director
 
-## Confusion Matrix + Rresults
+## Confusion Matrix + Results
 
 - **Train accuracy:** 85%
 - **Test accuracy:** 82%
+![Machine Learning - Is the movie a Hit or Flop](Machine%20Learning%20-%20Is%20the%20movie%20a%20Hit%20or%20Flop.png)
 
 ## Feature Importance 
 
 Budget and score are the strongest predictors in movie success aka making it a ‘Hit’
+![Machine Learning - Is the movie a Hit or Flop 1](Machine%20Learning%20-%20Is%20the%20movie%20a%20Hit%20or%20Flop%20%281%29.png)
 
-## Visualization
+## Visualization of Decision Tree
 
 The first split is : Budget 
 
@@ -72,6 +74,8 @@ Low budget varies; it depends on
 - Genre
 - Director 
 - Country
+
+![Machine Learning - Is the movie a Hit or Flop 2](Machine%20Learning%20-%20Is%20the%20movie%20a%20Hit%20or%20Flop%20%282%29.png)
 
 ## Limitations
 
