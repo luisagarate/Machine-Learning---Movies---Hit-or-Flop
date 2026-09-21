@@ -1,7 +1,5 @@
 # Machine-Learning---Movies---Hit-or-Flop
 
-# Movie Success Prediction: Hit or Flop
-
 ## Why Should We Predict the Success of Movies?
 
 - When a movie is produced, it takes resources, and it can become expensive/ risky 
