@@ -88,3 +88,7 @@ Low budget varies; it depends on
 - Increase budgets for movies that have promising success
 - Focus on movies that have an early high score
 - Avoid investing in films that fall in the low-budget and low score category, these tend to flop
+
+Note:
+
+- This project was a group effort by Luisa Garate, Naomi Hossain, Vivi ( Xinyi) He, Wayne (Weinou) Jin, & Tysean Haigood
