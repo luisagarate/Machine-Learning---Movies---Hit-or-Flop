@@ -27,9 +27,6 @@ Build a machine learning model that predicts whether a movie will be a hit or fl
 
 - Total of 85 missing values in ‘genre’
 - Total of 56 missing values in ‘crew’
-
-### Cleaning Dataset
-
 - Categorical feautures such as genre, director, and country were converted into numerical values
 - made sure there were no nulls
 - created a variable hit or flop
@@ -37,14 +34,14 @@ Build a machine learning model that predicts whether a movie will be a hit or fl
 
 ## How We Built Our Decision Tree
 
-### dependent variable
+### Dependent variable
 
 We had to manually code our target variable, these are the parameters we used.
 
 - **HIT** → revenue > budget
 - **FLOP** → revenue ≤ budget
 
-### features used in Decision Tree
+### Features used in Decision Tree
 
 - budget_x
 - score
